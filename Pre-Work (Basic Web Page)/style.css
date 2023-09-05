@@ -1,0 +1,18 @@
+/* h1{
+    color: rgb(149, 117, 255);
+}
+
+h2{
+    color: rgb(255, 223, 117);
+} */
+
+a{
+    background: -webkit-linear-gradient(rgb(255, 112, 112), rgb(135, 181, 255));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+img{
+    max-width: 100%;
+    max-height: 100%;
+}
